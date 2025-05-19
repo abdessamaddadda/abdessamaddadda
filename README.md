@@ -53,9 +53,9 @@
 ---
 
 ### 📞 Me contacter
-- 📧 abdessamad.dadda@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
-- 🌐 [Portfolio](https://TON-PORTFOLIO.com)
+- 📧 daddaabdessamad1@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdessamad-dadda-4513022a9/)
+- 🌐 [Portfolio](https://daddaabdessamad.netlify.app/)
 
 ---
 
