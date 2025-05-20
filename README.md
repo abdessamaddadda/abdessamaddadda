@@ -9,7 +9,7 @@
 
 ### 🎓 Formation
 - 📚 Étudiant en 3e année de licence pro en développement web & mobile à **ISMAGI – Rabat**
-- 🎓 DEUG (Bac+2) à **ISTA NTIC – Rabat**
+- 🎓 DTS (Bac+2) à **ISTA NTIC – Rabat**
 - 🎓 Bac sciences physiques – Lycée Hassan II, Sala Al Jadida
 
 ---
@@ -40,7 +40,8 @@
 
 ### 📸 Screenshots de projets
 
-> *(Ajoute ici des images après avoir poussé dans ton repo : `![titre](./chemin/image.png)`)*
+> ![Miela - Boutique de RAP](./ccssj.png)
+
 
 ---
 
