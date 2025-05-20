@@ -40,7 +40,7 @@
 
 ### 📸 Screenshots de projets
 
-> ![Miela - Boutique de RAP](./ccssj.png)
+> ![Miela - Boutique de RAP](./CSSJ.png)
 
 
 ---
